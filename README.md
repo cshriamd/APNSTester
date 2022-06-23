@@ -3,8 +3,8 @@ APNSTester helps in testing APNS on simulators at early developement stage. It d
 
 # How to use 
 
-  1- Launch client app on simualor.
-  2- Make sure client app calls "registerForRemoteNotifications()", to register with APNS services.
+  1- Launch client app on simualor. <br />
+  2- Make sure client app calls "registerForRemoteNotifications()", to register with APNS services. <br />
   3- Agree to Notifcaiton pop up, to recieve notificaiton on simulator device.
   4- Launch APNS Tester app.
   5- If "Log" section shows any error launch a simulator and wait till it boots properly. Press reload button. 
