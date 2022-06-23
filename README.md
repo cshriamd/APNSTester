@@ -1,5 +1,5 @@
 # APNSTester
-APNSTester helps in testing APNS on simulators at early developement stage. It does not require addtional server setup, certification or provisioning profiles. Use this tool to check the look and feel of the notifcaitons without complete APNS setup.
+APNSTester helps in testing APNS on simulators at early developement stage. It does not require addtional server setup, certification or provisioning profiles. Use this tool to check the look and feel of the notifications without a complete APNS setup.
 
 # How to use 
 
