@@ -10,7 +10,7 @@ APNSTester helps in testing APNS on simulators at early developement stage. It d
   5- If "Log" section shows any error launch a simulator and wait till it boots properly. Press reload button.  <br />
   6- Select recieveing simulator from the dropdown list. <br />
   7- Select and edit type of payload. <br />
-  8- Press push. <br />
+  8- Press "Push" button to send notifications. <br />
 
 # Support 
 If you face any issue, write to us at cshrimad@gmail.com.
